@@ -1,85 +1,82 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Hardik Sharma's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hardik Sharma
+Senior at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="sharmahardik8020@gmail.com">sharmahardik8020@gmail.com</a>
+| <a href="https://www.linkedin.com/in/-hardiksharma">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2019 – April 2023`
+__Brigham Young University – Idaho__, Rexburg, ID	                                   					     	       
+Bachelor of Science in Business Analytics with a minor in Finance	
 
-- Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+- Certificate for Data Science (C124) and Certificate for Business Fundamentals (C105)
+- Intern’s Data School graduate at Goldman Sachs
+- Alteryx Designer Core Certification issued by Alteryx
 
-- 4.0 Major GPA
+GPA: 3.94/4.0
+
+- Honors: BYU-Idaho Thomas E. Ricks Grant (Full ride scholarship for excellent GPA)
+- Technical Skills: MySQL, R, Python (NumPy, Pandas, Altair, Scikit-learn), Alteryx, Power BI, Tableau, Mathematica, Microsoft Office Suite, Bloomberg terminal     
+  
+![image](https://user-images.githubusercontent.com/97266144/207678021-76e79166-42eb-4ccd-9b81-eef4cdf55020.png)
+
+
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`June 2022 – August 2022`
+__Goldman Sachs__,Salt Lake City, UT     
+Summer Analyst Intern						                                	            	      
+- Engineered a workflow in Alteryx to match up internal data with firm’s software with data wrangling and modeling the process cutting down the manual touch point by 98% reducing risk for the business
+- Designed a Tableau dashboard for visualization & reporting helping save 3 hours work per week with essential numbers in the dashboard
+- Assisted with WRAP business daily functions by working on over 10 accounts requiring attention to detail
+![image](https://user-images.githubusercontent.com/97266144/207678649-efb1fd7f-8bf2-47ad-8b63-50cd1cf1c3e4.png)
 
 
-## Service and Work History
+`July 2021 – December 2021`
+__Morgan Stanley__,Salt Lake City, UT  
+Credit Risk Analyst						                                	            		        
+- Proceeded loan amounts for individual, trust, and business clients by investigating personal, business, and trust loan documents
+- Worked on multiple teams simultaneously by prioritizing tasks based on urgency and first come first serve basis
+- Examined the risk on lending loan by coming up with different calculations to cut down work by 4 minutes for an account 
+![image](https://user-images.githubusercontent.com/97266144/207679026-0368476d-46c2-4ccf-b596-0b41fdfa3581.png)
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
+
+
+## LEADERSHIP & VOLUNTEER ACTIVITIES
+
+`January 2022 – December 2022`
+__Data Science Society__, BYU-Idaho, Rexburg, ID                                                
+Active Member						               	            			         
+- Participated in different team meetings on wrangling data and modifying it to generate numerical evidence for different claims made
+- Developed a database model in MySQL for a restaurant evaluating revenue, filtering unpopular food items from menu, changing prices and reducing time for food delivery helping revenue grow by 6%
+- Communicated projects results and recommendations with mentors helping 4 companies use the model to generate clear analysis of business 
+![image](https://user-images.githubusercontent.com/97266144/207679364-cc86c234-b9a5-4fe9-97b2-2a367f98a265.png)
+
+`September 2020 – December 2022`
+Wealth Management Society, BYU-Idaho, Rexburg, ID                                              
+Active Member						               	            			      
+- Contributed with ideas and passion to build a suitable retirement plan analyzing unseen income and expenses going forward
+- Coordinated different group meetings on investments and invested on different stocks after in-depth study with different platforms focusing on risk associated with it
+- Fabricated a diverse portfolio achieving a growth of 8% with in the span of 6 months with strong fundamental analysis
+![image](https://user-images.githubusercontent.com/97266144/207679915-1f576d88-f558-4c59-9250-b7d35fd4a8e3.png)
 
 
 <!-- ### Footer
